@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: c07eacca4cd971b46bf8d8a345271a18
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7729486850058637284
+    second: GSidle
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths:
+    - arm__str_21_m__body
+    - arm__str_21_m__tie
+    - arm__str_21_m__tie1
+    - Armature
+    - Armature/pelvis
+    - Armature/pelvis/stomach
+    - Armature/pelvis/stomach/chest
+    - Armature/pelvis/stomach/chest/neck
+    - Armature/pelvis/stomach/chest/neck/head
+    - Armature/pelvis/stomach/chest/neck/head/hair
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/chest_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/biceps_twist_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/forearm_twist_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_big1_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_big1_l/f_big2_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_big1_l/f_big2_l/f_big3_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_main1_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_main1_l/f_main2_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_main1_l/f_main2_l/f_main3_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_pointer1_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_pointer1_l/f_pointer2_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/f_pointer1_l/f_pointer2_l/f_pointer3_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/weapon_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/weapon_l/w_giant_sword_01_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/weapon_l/w_giant_sword_01_l/w_giant_sword_02_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/arm_l/forearm_l/hand_l/weapon_l/w_giant_sword_01_l/w_giant_sword_03_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_l/clavicle_l/scapular_l
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/chest_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/biceps_twist_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/forearm_twist_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_big1_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_big1_r/f_big2_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_big1_r/f_big2_r/f_big3_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_main1_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_main1_r/f_main2_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_main1_r/f_main2_r/f_main3_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_pointer1_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_pointer1_r/f_pointer2_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/f_pointer1_r/f_pointer2_r/f_pointer3_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/arm_r/forearm_r/hand_r/weapon_r
+    - Armature/pelvis/stomach/chest/zero_joint_hand_r/clavicle_r/scapular_r
+    - Armature/pelvis/zero_joint_pelvis_l
+    - Armature/pelvis/zero_joint_pelvis_l/back_l
+    - Armature/pelvis/zero_joint_pelvis_l/thigh_l
+    - Armature/pelvis/zero_joint_pelvis_l/thigh_l/calf_l
+    - Armature/pelvis/zero_joint_pelvis_l/thigh_l/calf_l/foot_l
+    - Armature/pelvis/zero_joint_pelvis_l/thigh_l/calf_l/foot_l/toe_l
+    - Armature/pelvis/zero_joint_pelvis_l/thigh_l/thigh_twist_l
+    - Armature/pelvis/zero_joint_pelvis_r
+    - Armature/pelvis/zero_joint_pelvis_r/back_r
+    - Armature/pelvis/zero_joint_pelvis_r/thigh_r
+    - Armature/pelvis/zero_joint_pelvis_r/thigh_r/calf_r
+    - Armature/pelvis/zero_joint_pelvis_r/thigh_r/calf_r/foot_r
+    - Armature/pelvis/zero_joint_pelvis_r/thigh_r/calf_r/foot_r/toe_r
+    - Armature/pelvis/zero_joint_pelvis_r/thigh_r/thigh_twist_r
+    - head__m_01
+    - wpn__giant_sword_01_01__l
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 1
+    maxBonesPerVertex: 27
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
